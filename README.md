@@ -1,6 +1,6 @@
-# Realtime Convultional Pose Machines
+# Convultional Pose Machines
 
-> Python implentation of [Convolutional Pose Machines] (https://arxiv.org/abs/1602.00134)
+> Python implentation of Convolutional Pose Machines
 
 [![Python Version][python-image]][python-url]
 [![Build Status][travis-image]][travis-url]
@@ -29,7 +29,7 @@
 
 ## Contribute
 
-I would love for you to contribute to **Realtime Convultional Pose Machines**, check the ``LICENSE`` file for more info.
+I would love for you to contribute to **Convultional Pose Machines**, check the ``LICENSE`` file for more info.
 
 ## Meta
 
