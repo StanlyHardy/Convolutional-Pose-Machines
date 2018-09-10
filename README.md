@@ -1,6 +1,10 @@
 # Convultional Pose Machines
 
-> Python implentation of Convolutional Pose Machines
+> Python implentation of Convolutional Pose Machines.
+
+#Description
+This repository contains the implentation of the  paper [paper](https://arxiv.org/abs/1602.00134).
+
 
 [![Python Version][python-image]][python-url]
 [![Build Status][travis-image]][travis-url]
