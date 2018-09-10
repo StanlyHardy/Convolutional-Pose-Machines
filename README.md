@@ -1,6 +1,6 @@
 # Realtime Convultional Pose Machines
 
-> Realtime Human Pose Estimation in lower end devices
+> Python implentation of [Convolutional Pose Machines] (https://arxiv.org/abs/1602.00134)
 
 [![Python Version][python-image]][python-url]
 [![Build Status][travis-image]][travis-url]
