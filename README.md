@@ -7,9 +7,8 @@
 [![License][license-image]][license-url]
 
 
-[![Python Version][python-image]][python-url]
-[![Build Status][travis-image]][travis-url]
-[![License][license-image]][license-url]
+[![Tensorflow Version][tensorflow-image]][tensorflow-url]
+
 
 
 
@@ -55,3 +54,5 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [license-url]: LICENSE
 [codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
 [codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
+[tensorflow] :https://img.shields.io/badge/tensorflow-1.8%20%7C%201.9%20%7C%201.10-orange.svg
+[tensorflow-url] :https://www.tensorflow.org/tutorials/
