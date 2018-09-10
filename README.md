@@ -19,6 +19,7 @@
 - [x] Implementation of Convolutional Pose Machine
 - [ ] Multi Threaded Inference
 - [ ] Optimization of Training
+- [ ] Document the code
 - [ ] Complete Readme
 
 
