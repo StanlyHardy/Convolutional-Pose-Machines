@@ -1,4 +1,4 @@
-# Realtime-Human-Pose-Estimation
+# Realtime Convultional Pose Machines
 
 > Realtime Human Pose Estimation in lower end devices
 
@@ -30,7 +30,7 @@
 
 ## Contribute
 
-I would love for you to contribute to **Realtime Pose Estimation**, check the ``LICENSE`` file for more info.
+I would love for you to contribute to **Realtime Convultional Pose Machines**, check the ``LICENSE`` file for more info.
 
 ## Meta
 
