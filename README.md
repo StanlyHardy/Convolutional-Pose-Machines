@@ -3,6 +3,8 @@
 > Realtime Human Pose Estimation in lower end devices
 
 [![Python Version][python-image]][python-url]
+[![Tensorflow Version][tensorflow-image]][tensorflow-url]
+[![Opencv Version][opencv-image]][opencv-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
 
@@ -43,6 +45,10 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [python-image]:https://img.shields.io/pypi/pyversions/Django.svg?style=flat
 [python-url]: https://www.python.org/
+[tensorflow ] : https://img.shields.io/badge/tensorflow-1.8%20%7C%201.9%20%7C%201.10-orange.svg
+[tensorflow-url] : https://www.tensorflow.org/tutorials/
+[opencv ] : https://img.shields.io/badge/opencv-3.2%2B-brightgreen.svg
+[opencv-url] : https://opencv.org/
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
