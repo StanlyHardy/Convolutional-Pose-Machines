@@ -4,7 +4,7 @@
 
 ### Dataset:
 
-This repository contains the tensorflow implentation of the paper [paper](https://arxiv.org/abs/1602.00134).
+This repository contains the tensorflow implentation of the paper [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134).
 
 
 [![Python Version][python-image]][python-url]
