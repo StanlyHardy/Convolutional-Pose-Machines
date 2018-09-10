@@ -14,6 +14,14 @@
 - [x] Efficiently predict human body pose with lower end devices.
 - [x] Runs at 30FPS in MacBook Pro 2.7 GHz Intel Core i5
 
+
+## TODO
+- [x] Implementation of Convolutional Pose Machine
+- [ ] Multi Threaded Inference
+- [ ] Optimization of Training
+- [ ] Complete Readme
+
+
 ## Requirements
 
 - Windows 10 / Ubuntu 16.04 / macOS 10.13.5
@@ -32,7 +40,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/StanlyHardy/FlareView](https://github.com/StanlyHardy/)
 
-[python-image]:https://img.shields.io/badge/Language-Objective%20C-blue.svg?style=flat
+[python-image]:https://img.shields.io/pypi/pyversions/Django.svg?style=flat
 [python-url]: https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
