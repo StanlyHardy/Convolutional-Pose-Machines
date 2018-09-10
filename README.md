@@ -4,7 +4,6 @@
 
 [![Python Version][python-image]][python-url]
 [![Build Status][travis-image]][travis-url]
-[![License][license-image]][license-url]
 
 ![screen shot](https://github.com/StanlyHardy/Realtime-Human-Pose-Estimation/blob/master/output/example_1.gif)
 
@@ -36,7 +35,7 @@ I would love for you to contribute to **Realtime Convultional Pose Machines**, c
 
 Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – shtanlimoses@gmail.com
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+Distributed under the Apache license. See ``LICENSE`` for more information.
 
 [https://github.com/StanlyHardy/FlareView](https://github.com/StanlyHardy/)
 
@@ -44,7 +43,3 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [python-url]:https://www.python.org/
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
-[license-url]: LICENSE
-[codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
-[codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
