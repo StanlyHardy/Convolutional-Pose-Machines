@@ -37,7 +37,7 @@ Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – shtanli
 
 Distributed under the Apache license. See ``LICENSE`` for more information.
 
-[https://github.com/StanlyHardy/FlareView](https://github.com/StanlyHardy/)
+[https://github.com/StanlyHardy/Convultional-Pose-Machines](https://github.com/StanlyHardy/)
 
 [python-image]:https://img.shields.io/pypi/pyversions/Django.svg?style=flat
 [python-url]:https://www.python.org/
