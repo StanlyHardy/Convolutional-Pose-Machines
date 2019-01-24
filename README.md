@@ -38,7 +38,7 @@ I would love for you to contribute to **Convultional Pose Machines**, check the 
 
 ## Meta
 
-Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – shtanlimoses@gmail.com
+Stanly Moses – [@Linkedin](https://in.linkedin.com/in/stanlymoses) – stanlimoses@gmail.com
 
 Distributed under the Apache license. See ``LICENSE`` for more information.
 
