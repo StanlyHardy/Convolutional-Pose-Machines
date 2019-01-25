@@ -48,3 +48,4 @@ Distributed under the Apache license. See ``LICENSE`` for more information.
 [python-url]:https://www.python.org/
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+
